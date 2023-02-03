@@ -1,5 +1,5 @@
 ---
-title: "Final Words"
+title: "Final Words by Sean Sosik-Hamor"
 weight: 2
 header_menu: true
 ---
