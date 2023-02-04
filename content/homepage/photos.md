@@ -1,5 +1,5 @@
 ---
-title: "Photos"
+title: "Memories of Bob"
 weight: 4
 header_menu: true
 ---

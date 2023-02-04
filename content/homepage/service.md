@@ -1,5 +1,5 @@
 ---
-title: "Service"
+title: "Service and Remembrance"
 weight: 3
 header_menu: true
 ---

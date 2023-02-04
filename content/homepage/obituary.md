@@ -1,5 +1,5 @@
 ---
-title: "Obituary"
+title: "Obituary for Robert Banks Hamor"
 weight: 1
 header_menu: true
 ---
